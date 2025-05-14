@@ -23,8 +23,12 @@ This is a simple implementation of the Rock Paper Scissors game in Java.
     ```bash
     java RockPaperScissorsGame
     ```
-## Online execution
-If you do not have a JDK installed, you can copy the code and run it on [https://repl.it/](https://repl.it/)
+## Online Execution
+
+If you do not have a JDK installed, you can quickly run the code online using Repl.it:
+
+* [https://replit.com/@shaikmuskan2712/FrozenAdoredCad-1](https://replit.com/@shaikmuskan2712/FrozenAdoredCad-1)
+
 
 ## Code Structure
 
